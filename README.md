@@ -14,14 +14,14 @@ These sensors and sketches work best with an Arduino UNO Rev3. If you do not hav
 
 ### Sensors:
 
-- [Accelerometer](/examples/Grove_Accelerometer_Serial.ino)
-- [Air Quality Sensor](/examples/Grove_AirQuality_Serial.ino)
-- [Light Sensor](/examples/Grove_Light_Serial.ino)
-- [PIR Motion Sensor](/examples/Grove_PIR_Serial.ino)
-- [Sound Sensor](/examples/Grove_Sound_Serial.ino)
-- [Temperature Sensor](/examples/Grove_Temperature_Serial.ino)
-- [Temperature & Humidity Sensor](/examples/Grove_DHT_Serial.ino)
-- [Ultrasonic Distance Sensor](/examples/Grove_Distance_Serial.ino)
+- [Accelerometer](/arduino-code/Grove_Accelerometer_Serial.ino)
+- [Air Quality Sensor](/arduino-code/Grove_AirQuality_Serial.ino)
+- [Light Sensor](/arduino-code/Grove_Light_Serial.ino)
+- [PIR Motion Sensor](/arduino-code/Grove_PIR_Serial.ino)
+- [Sound Sensor](/arduino-code/Grove_Sound_Serial.ino)
+- [Temperature Sensor](/arduino-code/Grove_Temperature_Serial.ino)
+- [Temperature & Humidity Sensor](/arduino-code/Grove_DHT_Serial.ino)
+- [Ultrasonic Distance Sensor](/arduino-code/Grove_Distance_Serial.ino)
 
 ### Actuators:
 
